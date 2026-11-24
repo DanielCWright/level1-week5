@@ -1,0 +1,1 @@
+console.log("week5-day1: this is the other javascriptfile SEE ME STATUS COMMAND!");
